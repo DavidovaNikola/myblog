@@ -1,6 +1,6 @@
 ---
 title: 'Project 4'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'Ntezs'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
